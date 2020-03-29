@@ -1,15 +1,14 @@
-#  Cube Draft Simulation
+# Cube Draft Simulation
 
 A simple implementation of a simulated MTG Cube draft.
 
 ## Running
 
-The project incudes two targets, a command line utility and a library inteded to be used in a Swift Playground.
+The project includes two targets, a command line utility and a library intended to be used in a Swift Playground.
 
 To run the command line tool from Xcode, edit the scheme and add the path to a .csv file as a launch argument.
 
-To run in the incldued playground, first select the "CubeDraftSimulatorPlaygroundSupport" library and build it. This includes an example CSV, but can be replaced with a path to another.
-
+To run in the included playground, first select the "CubeDraftSimulatorPlaygroundSupport" library and build it. This includes an example CSV, but can be replaced with a path to another.
 
 ## CSV Structure
 
