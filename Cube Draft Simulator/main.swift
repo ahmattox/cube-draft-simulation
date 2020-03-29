@@ -1,12 +1,13 @@
-//
-//  main.swift
-//  Cube Draft Simulator
-//
-//  Created by Anthony Mattox on 3/26/20.
-//  Copyright © 2020 Anthony Mattox. All rights reserved.
-//
-
 import Foundation
 
-print("Hello, World!")
+let csvPath = CommandLine.arguments[1];
 
+do {
+  var simulation = try CubeDraftSimulation(csvPath: csvPath)
+
+  let draftPools = simulation.run()
+  
+  print(draftPools.map { $0.description }.joined(separator: "\n"))
+} catch {
+  print("Error running draft simulation. ", error)
+}

@@ -1,0 +1,361 @@
+Name,Type,Sum Playability,Aggro,Midrange,Control,W,U,B,R,G,WU,UB,BR,RG,GW,BW,BG,UG,UR,RW
+Dauntless Bodyguard,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Giant Killer,Nonland,10,2,1,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Giver of Runes,Nonland,10,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Isamaru, Hound of Konda",Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Kytheon, Hero of Akros",Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Legion's Landing,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Mother of Runes,Nonland,10,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Skymarcher Aspirant,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Student of Warfare,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Adanto Vanguard,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Adorned Pouncer,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Imposing Sovereign,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Knight of the Holy Nimbus,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Selfless Spirit,Nonland,10,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Stoneforge Mystic,Nonland,11,2,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Thalia, Guardian of Thraben",Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Tithe Taker,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Wall of Omens,Nonland,9,0,1,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Brightling,Nonland,10,1,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Brimaz, King of Oreskos",Nonland,11,2,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Monastery Mentor,Nonland,10,1,1,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Ranger-Captain of Eos,Nonland,10,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Recruiter of the Guard,Nonland,11,2,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Thalia, Heretic Cathar",Nonland,10,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Vryn Wingmare,Nonland,10,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Hero of Bladehold,Nonland,10,1,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Palace Jailer,Nonland,10,2,2,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Restoration Angel,Nonland,11,2,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Archangel Avacyn,Nonland,9,0,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Realm-Cloaked Giant,Nonland,8,0,0,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Finale of Glory,Nonland,11,1,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Secure the Wastes,Nonland,11,1,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Gideon Blackblade,Nonland,11,2,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Ajani, Adversary of Tyrants",Nonland,11,2,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Elspeth, Knight-Errant",Nonland,10,1,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Elspeth, Sun's Champion",Nonland,10,0,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Path to Exile,Nonland,11,1,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Swords to Plowshares,Nonland,12,2,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Unexpectedly Absent,Nonland,10,2,1,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Balance,Nonland,9,0,1,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Winds of Abandon,Nonland,11,1,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Council's Judgment,Nonland,11,1,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Armageddon,Nonland,8,2,0,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Wrath of God,Nonland,8,0,0,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Oblivion Ring,Nonland,12,2,2,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Karakas,Land,19,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Jace, Vryn's Prodigy",Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Looter il-Kor,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Phantasmal Image,Nonland,11,2,2,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Riftwing Cloudskate,Nonland,11,2,2,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Snapcaster Mage,Nonland,12,2,2,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Thing in the Ice,Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Vendilion Clique,Nonland,12,2,2,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Brazen Borrower,Nonland,11,1,2,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Glen Elendra Archmage,Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+"Venser, Shaper Savant",Nonland,9,1,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Whirler Rogue,Nonland,9,1,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+"Narset, Parter of Veils",Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+"Jace, the Mind Sculptor",Nonland,11,1,2,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Brainstorm,Nonland,12,2,2,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Force Spike,Nonland,12,2,2,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Opt,Nonland,9,1,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Spell Pierce,Nonland,9,1,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Condescend,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Counterspell,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Daze,Nonland,10,2,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Impulse,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Mana Leak,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Memory Lapse,Nonland,10,2,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Miscalculation,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Negate,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Remand,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Fact or Fiction,Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Mystic Confluence,Nonland,11,1,2,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Dig Through Time,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Ponder,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Preordain,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Serum Visions,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Sleight of Hand,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Chart a Course,Nonland,10,2,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Scour All Possibilities,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Compulsive Research,Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Upheaval,Nonland,8,0,0,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Treasure Cruise,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Opposition,Nonland,10,1,2,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Treachery,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Shelldock Isle,Land,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Tolarian Academy,Land,20,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bloodsoaked Champion,Nonland,8,2,0,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Dread Wanderer,Nonland,8,2,0,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Knight of the Ebon Legion,Nonland,9,2,1,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Gnarled Scarhide,Nonland,8,2,0,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Gravecrawler,Nonland,8,2,0,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Gutterbones,Nonland,8,2,0,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Bitterblossom,Nonland,12,2,2,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Bloodghast,Nonland,9,2,1,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Dark Confidant,Nonland,10,2,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Kitesail Freebooter,Nonland,10,2,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Mesmeric Fiend,Nonland,10,2,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Mardu Strike Leader,Nonland,9,2,1,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Ophiomancer,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Plague Engineer,Nonland,11,1,2,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Ruin Raider,Nonland,9,2,1,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Ravenous Chupacabra,Nonland,10,1,2,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Skinrender,Nonland,10,1,2,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Shriekmaw,Nonland,11,1,2,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Grave Titan,Nonland,9,0,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Liliana of the Veil,Nonland,10,2,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+"Liliana, the Last Hope",Nonland,12,2,2,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+"Liliana, Dreadhorde General",Nonland,9,0,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Snuff Out,Nonland,10,2,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Fatal Push,Nonland,9,1,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Cast Down,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Doom Blade,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Go for the Throat,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Malicious Affliction,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Ultimate Price,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Hero's Downfall,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Murderous Cut,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Cabal Therapy,Nonland,9,2,1,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Duress,Nonland,11,2,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Inquisition of Kozilek,Nonland,11,2,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Thoughtseize,Nonland,11,2,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Collective Brutality,Nonland,11,2,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Hymn to Tourach,Nonland,12,2,2,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Night's Whisper,Nonland,10,1,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Toxic Deluge,Nonland,8,0,0,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Damnation,Nonland,8,0,0,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Curse of Shallow Graves,Nonland,10,2,2,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Recurring Nightmare,Nonland,10,1,2,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Nether Void,Nonland,8,2,0,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Bolas's Citadel,Nonland,8,0,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Falkenrath Gorger,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Firedrinker Satyr,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Goblin Guide,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Grim Lavamancer,Nonland,9,1,1,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Monastery Swiftspear,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Soul-Scar Mage,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Zurgo Bellstriker,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Earthshaker Khenra,Nonland,9,2,1,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Goblin Cratermaker,Nonland,10,2,2,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Rimrock Knight,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+"Kari Zev, Skyship Raider",Nonland,9,2,1,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Robber of the Rich,Nonland,9,2,1,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Young Pyromancer,Nonland,10,1,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Goblin Rabblemaster,Nonland,10,2,2,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+"Krenko, Tin Street Kingpin",Nonland,10,2,2,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Legion Warboss,Nonland,10,2,2,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Seasoned Pyromancer,Nonland,11,2,2,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Flametongue Kavu,Nonland,10,1,2,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Hellrider,Nonland,9,2,1,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Glorybringer,Nonland,10,1,2,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Zealous Conscripts,Nonland,10,1,2,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Inferno Titan,Nonland,9,0,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+"Chandra, Acolyte of Flame",Nonland,9,1,1,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+"Chandra, Torch of Defiance",Nonland,10,1,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Burst Lightning,Nonland,12,2,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Lightning Bolt,Nonland,12,2,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Abrade,Nonland,11,1,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Magma Jet,Nonland,9,1,1,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Staggershock,Nonland,9,1,1,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Faithless Looting,Nonland,9,1,1,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Firebolt,Nonland,12,2,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Flame Slash,Nonland,10,1,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Forked Bolt,Nonland,12,2,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Arc Trail,Nonland,12,2,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Mizzium Mortars,Nonland,10,1,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Pyroclasm,Nonland,8,0,0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Arc Lightning,Nonland,11,1,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Exquisite Firecraft,Nonland,9,1,1,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Slagstorm,Nonland,10,1,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Fiery Confluence,Nonland,12,2,2,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Rolling Earthquake,Nonland,10,1,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Wildfire,Nonland,8,0,0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Sulfuric Vortex,Nonland,9,2,1,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Experimental Frenzy,Nonland,8,2,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Arbor Elf,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Avacyn's Pilgrim,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Birds of Paradise,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Elves of Deep Shadow,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Gilded Goose,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Joraga Treespeaker,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Llanowar Elves,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Noble Hierarch,Nonland,9,1,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Devoted Druid,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Incubation Druid,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Lotus Cobra,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+"Rofellos, Llanowar Emissary",Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Sakura-Tribe Elder,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Sylvan Caryatid,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Wall of Roots,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Call of the Herd,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Eternal Witness,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Jadelight Ranger,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Reclamation Sage,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Tireless Tracker,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Courser of Kruphix,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Hexdrinker,Nonland,10,2,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Nightpack Ambusher,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Questing Beast,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Wolfbriar Elemental,Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Biogenic Ooze,Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Deep Forest Hermit,Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Whisperwood Elemental,Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Craterhoof Behemoth,Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Green Sun's Zenith,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Voracious Hydra,Nonland,10,1,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+"Nissa, Voice of Zendikar",Nonland,9,1,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+"Vivien, Champion of the Wilds",Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Garruk Relentless,Nonland,9,1,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Garruk Wildspeaker,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+"Nissa, Vital Force",Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+"Nissa, Who Shakes the World",Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Once Upon a Time,Nonland,7,0,1,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Edge of Autumn,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Rampant Growth,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Plow Under,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Oath of Nissa,Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Utopia Sprawl,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Wild Growth,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Sylvan Library,Nonland,9,0,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Gaea's Cradle,Land,20,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1
+Treetop Village,Land,10,1,2,1,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Hallowed Fountain,Land,7,1,1,1,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+Hallowed Fountain,Land,7,1,1,1,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+Spell Queller,Nonland,7,2,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"Teferi, Time Raveler",Nonland,8,2,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Supreme Verdict,Nonland,4,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Fractured Identity,Nonland,6,0,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Watery Grave,Land,7,1,1,1,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0
+Watery Grave,Land,7,1,1,1,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0
+Baleful Strix,Nonland,8,2,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Blood Crypt,Land,7,1,1,1,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0
+Blood Crypt,Land,7,1,1,1,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0
+Dreadbore,Nonland,6,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Kolaghan's Command,Nonland,8,2,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Stomping Ground,Land,7,1,1,1,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0
+Stomping Ground,Land,7,1,1,1,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0
+"Domri, Anarch of Bolas",Nonland,5,1,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Dragonlord Atarka,Nonland,5,0,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Temple Garden,Land,7,1,1,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0
+Temple Garden,Land,7,1,1,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0
+Knight of Autumn,Nonland,6,1,2,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Godless Shrine,Land,7,1,1,1,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0
+Godless Shrine,Land,7,1,1,1,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0
+Lingering Souls,Nonland,10,1,2,1,1,0,0,0,0,1,0,0,0,1,2,0,0,0,1
+Vindicate,Nonland,8,2,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Overgrown Tomb,Land,7,1,1,1,0,0,1,0,1,0,0,0,0,0,0,2,0,0,0
+Overgrown Tomb,Land,7,1,1,1,0,0,1,0,1,0,0,0,0,0,0,2,0,0,0
+Assassin's Trophy,Nonland,7,1,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"Garruk, Cursed Huntsman",Nonland,6,0,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Breeding Pool,Land,7,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0
+Breeding Pool,Land,7,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0
+"Oko, Thief of Crowns",Nonland,6,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Steam Vents,Land,7,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0
+Steam Vents,Land,7,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0
+Fire // Ice,Nonland,17,2,2,2,0,1,0,2,0,1,1,1,1,0,0,0,1,2,1
+Izzet Charm,Nonland,6,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"Saheeli, Sublime Artificer",Nonland,15,0,1,2,0,2,0,2,0,1,1,1,1,0,0,0,1,2,1
+Electrolyze,Nonland,5,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Sacred Foundry,Land,7,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Sacred Foundry,Land,7,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Figure of Destiny,Nonland,15,2,1,0,2,0,0,2,0,1,0,1,1,1,1,0,0,1,2
+Lightning Helix,Nonland,8,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Bonesplitter,Nonland,18,2,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Retrofitter Foundry,Nonland,19,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Sensei's Divining Top,Nonland,19,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Skullclamp,Nonland,20,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Azorius Signet,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Everflowing Chalice,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Izzet Signet,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Mind Stone,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Prismatic Lens,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Talisman of Creativity,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Talisman of Dominance,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Talisman of Progress,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Umezawa's Jitte,Nonland,20,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Winter Orb,Nonland,19,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Basalt Monolith,Nonland,18,0,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Coalition Relic,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Grafted Wargear,Nonland,18,2,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Heirloom Blade,Nonland,18,2,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Sword of Fire and Ice,Nonland,19,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Tangle Wire,Nonland,18,2,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Worn Powerstone,Nonland,18,0,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Thran Dynamo,Nonland,18,0,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bomat Courier,Nonland,9,2,1,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Phyrexian Revoker,Nonland,20,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Porcelain Legionnaire,Nonland,20,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Scrapheap Scrounger,Nonland,19,2,1,0,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+Smuggler's Copter,Nonland,20,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Metalworker,Nonland,18,0,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Phyrexian Metamorph,Nonland,19,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lodestone Golem,Nonland,18,2,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Solemn Simulacrum,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Batterskull,Nonland,20,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Wurmcoil Engine,Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Myr Battlesphere,Nonland,18,0,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Hangarback Walker,Nonland,19,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Walking Ballista,Nonland,21,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ancient Tomb,Land,21,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Arid Mesa,Land,19,2,2,2,1,0,0,1,0,1,1,1,1,1,1,1,1,1,2
+Bloodstained Mire,Land,19,2,2,2,0,0,1,1,0,1,1,2,1,1,1,1,1,1,1
+City of Brass,Land,25,2,2,1,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2
+Flooded Strand,Land,19,2,2,2,1,1,0,0,0,2,1,1,1,1,1,1,1,1,1
+Marsh Flats,Land,19,2,2,2,1,0,1,0,0,1,1,1,1,1,2,1,1,1,1
+Mishra's Factory,Land,21,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Misty Rainforest,Land,19,2,2,2,0,1,0,0,1,1,1,1,1,1,1,1,2,1,1
+Polluted Delta,Land,19,2,2,2,0,1,1,0,0,1,2,1,1,1,1,1,1,1,1
+Prismatic Vista,Land,31,2,2,2,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Rishadan Port,Land,19,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Scalding Tarn,Land,19,2,2,2,0,1,0,1,0,1,1,1,1,1,1,1,1,2,1
+Strip Mine,Land,20,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Verdant Catacombs,Land,19,2,2,2,0,0,1,0,1,1,1,1,1,1,1,2,1,1,1
+Wasteland,Land,19,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Windswept Heath,Land,19,2,2,2,1,0,0,0,1,1,1,1,1,2,1,1,1,1,1
+Wooded Foothills,Land,19,2,2,2,0,0,0,1,1,1,1,1,2,1,1,1,1,1,1
+"Karn, Scion of Urza",Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Ugin, the Ineffable",Nonland,19,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Ugin, the Spirit Dragon",Nonland,18,0,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Dismember,Nonland,20,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Gitaxian Probe,Nonland,18,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Murderous Rider,Nonland,12,2,2,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Bonecrusher Giant,Nonland,11,2,2,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+Primordial Mist,Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Hydroid Krasis,Nonland,5,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"Teferi, Hero of Dominaria",Nonland,5,0,1,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"Vivien, Arkbow Ranger",Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Sword of Feast and Famine,Nonland,19,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Mu Yanling, Sky Dancer",Nonland,10,1,2,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Mardu Woe-Reaper,Nonland,8,2,0,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Omen of the Sea,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+"Elspeth, Sun's Nemesis",Nonland,11,2,2,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Phoenix of Ash,Nonland,10,2,2,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+"Ashiok, Nightmare Muse",Nonland,5,0,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Thassa's Intervention,Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Agonizing Remorse,Nonland,10,2,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Purphoros's Intervention,Nonland,9,1,1,1,0,0,0,2,0,0,0,1,1,0,0,0,0,1,1
+"Uro, Titan of Nature's Wrath",Nonland,5,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Wolfwillow Haven,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Eidolon of Obstruction,Nonland,9,2,1,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+"Kroxa, Titan of Death's Hunger",Nonland,6,2,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Nadir Kraken,Nonland,9,0,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+The First Iroan Games,Nonland,8,0,2,0,0,0,0,0,2,0,0,0,1,1,0,1,1,0,0
+Supreme Will,Nonland,10,1,1,2,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Unearth,Nonland,10,2,1,1,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Glint-Sleeve Siphoner,Nonland,9,2,1,0,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+Censor,Nonland,9,1,1,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,0
+Oust,Nonland,10,1,1,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Declaration in Stone,Nonland,10,1,1,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1
+Waterlogged Grove,Land,13,1,1,1,0,1,0,0,1,1,1,0,1,1,0,1,2,1,0
+Sunbaked Canyon,Land,13,1,1,1,1,0,0,1,0,1,0,1,1,1,1,0,0,1,2
+Silent Clearing,Land,13,1,1,1,1,0,1,0,0,1,1,1,0,1,2,1,0,0,1
+Fiery Islet,Land,13,1,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,2,1
+Nurturing Peatland,Land,13,1,1,1,0,0,1,0,1,0,1,1,1,1,1,2,1,0,0
+Mutavault,Land,19,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Hope of Ghirapur,Nonland,17,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Stonecoil Serpent,Nonland,18,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ruinous Path,Nonland,9,0,1,2,0,0,2,0,0,0,1,1,0,0,1,1,0,0,0
+"Daretti, Ingenious Iconoclast",Nonland,7,1,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0

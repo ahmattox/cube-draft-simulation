@@ -1,0 +1,15 @@
+# Xcode
+
+## User settings
+xcuserdata/
+
+## Gcc Patch
+/*.gcno
+
+## Obj-C/Swift specific
+*.hmap
+
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
